@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
@@ -67,5 +66,3 @@ The application also adheres to **SOLID principles** and is developed using **Ja
 ---
 
 ## 📁 Project Structure
-
->>>>>>> ed4a60840906d4618f430d1b0abe1b9eb2fdfe93
